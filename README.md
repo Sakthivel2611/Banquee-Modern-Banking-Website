@@ -1,5 +1,4 @@
-# Banquee-Modern-Banking-Website
-Banquee is a responsive website for modern banking services, offering features like instant transactions, virtual cards, saving accounts, and mobile banking. With a sleek design, testimonials, and user-friendly navigation, it demonstrates advanced banking solutions. Built using HTML and CSS, Banquee is perfect for showcasing frontend development 
+
 # Banquee: Modern Banking Website
 
 **Banquee** is a sleek, responsive website for a fictional banking service, showcasing advanced features, seamless design, and a user-centric interface. This project highlights innovative banking solutions with a focus on mobile and web-friendly designs.
